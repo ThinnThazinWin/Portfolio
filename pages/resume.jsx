@@ -49,9 +49,7 @@ const resume = () => {
           </div>
         </div>
         <p>
-          Analytical, innovative, and motivated web development with experience
-          in customer service, and organizational effectiveness in fast-paced
-          and challenging environments. Diverse analytical skills, team
+           Diverse analytical skills, team
           collaboration, and relationship building with solid interpersonal
           abilities and problem-solving skills. Effective and proven track
           record of critical thinking, idea generation, and optimizing

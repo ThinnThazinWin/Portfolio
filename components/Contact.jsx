@@ -28,10 +28,15 @@ const Contact = () => {
               </div>
               <div>
                 <h2 className='py-2'>Thinn Thazin Win</h2>
-                <p>Junior Front-End Developer</p>
+                <p>  Internship-On-Job-Training</p>
                 <p className='py-4'>
-                  I am available for work from home. Contact
-                  me and let&apos;s talk.
+                  I'm searching the environment to enhance me 
+                  as front-end developer and till full-stack developer .
+                  I'm in entry level and I need guidelines and the work field
+                  to fulfill the conditions of good developer.
+                  I'll make a real effort to finish on time.
+                   Contact me and let&apos;s talk.
+                
                 </p>
               </div>
               <div>
@@ -148,3 +153,4 @@ const Contact = () => {
 };
 
 export default Contact;
+

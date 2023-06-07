@@ -13,21 +13,24 @@ const About = () => {
           </p>
           <h2 className='py-4'>Who I Am</h2>
           <p className='py-2 text-gray-600'>
-          I specialize in building mobile front-end UI applications
+          I develop in building mobile and web front-end 
             that connect with API’s and other backend technologies. I’m
             passionate about learning new technologies and understand there is
             more than one way to accomplish a task. Though I  build 
             front-end applications using HTML, CSS, Javascript, and
             React, I am a quick learner and can pick up new tech stacks as
-            needed.
+            needed. 
           </p>
           <p className='py-2 text-gray-600'>
-          I started web developement in November,2023 
-            managing multiple portfolio, dashboard websites . 
+         
             I have experience working  with IT support and 
-            junior mobile developer. In my spare  time
-            I run Code Commerce, a Youtube channel where I teach web
-            developement and various front-end technologies.
+             front-end developer trainees. In my spare  time
+            I study from Youtube channel where I learn web
+            developement and various front-end technologies. 
+            Now, If I have a chance, I'm strongly willing to join up
+            with your team and I believe I'll get neat and tidy roadmap 
+            from MIT to work as developer. I'm surely I'll try the best.
+           
           </p>
           <Link href='/#projects'>
             <p className='py-2 text-gray-600 underline cursor-pointer'>
