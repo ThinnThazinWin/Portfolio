@@ -28,16 +28,14 @@ const Contact = () => {
               </div>
               <div>
                 <h2 className='py-2'>Thinn Thazin Win</h2>
-                <p>  Internship-On-Job-Training</p>
-                <p className='py-4'>
-                  I'm searching the environment to enhance me 
-                  as front-end developer and till full-stack developer .
-                  I'm in entry level and I need guidelines and the work field
-                  to fulfill the conditions of good developer.
-                  I'll make a real effort to finish on time.
-                   Contact me and let&apos;s talk.
+                <h3 className='text-slate-500 text-lg'>  Junior web developer</h3>
+                <p className='py-1'>
+                 - I'm flexible if company require extra hours.
                 
                 </p>
+                <p className='py-1'> - It is my priority to be good junior developer.
+                </p>
+                <p>- I'm also good interpersonal skills and communication strength.</p>
               </div>
               <div>
                 <p className='uppercase pt-8'>Connect With Me</p>

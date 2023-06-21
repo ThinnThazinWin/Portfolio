@@ -1,48 +1,49 @@
-import Image from 'next/image';
-import Link from 'next/link';
+
 import React from 'react';
-import smartCityImg from '../public/assets/projects/smart.png';
-import travelImg from '../public/assets/projects/travel.png'
-import expenseTrackerImg from '../public/assets/projects/expense.png'
-import todoImg from '../public/assets/projects/todo.png'
+
+import ecommerce1 from '../public/assets/projects/ecommerce1.png'
+import ecommerce2 from '../public/assets/projects/ecommerce2.png'
+import ecommerce3 from '../public/assets/projects/ecommerce3.png'
+import ecommerce4 from '../public/assets/projects/ecommerce4.png'
 import ProjectItem from './ProjectItem';
 
 const Projects = () => {
   return (
-    <div id='projects' className='w-full'>
-      <div className='max-w-[1240px] mx-auto px-2 py-16'>
+    <div id='projects' className='w-full  '>
+      <div className='max-w-[1240px] mx-auto px-2 py-10'>
         <p className='text-xl tracking-widest uppercase text-[#5651e5]'>
-          Projects
+          Project
         </p>
         <h2 className='py-4'>What I&apos;ve Built</h2>
-        <div className='grid md:grid-cols-2 gap-8'>
+        <div className='grid md:grid-cols-2 gap-8 mt-10'>
           <ProjectItem
-            title='Smart City App'
-            backgroundImg={smartCityImg}
-            projectUrl='/smartCity'
-            tech='React Native'
+            title='E-commerce'
+            backgroundImg={ecommerce1}
+            projectUrl='/ecommerce1'
+            tech='Next and Tailwind'
           />
           <ProjectItem
-            title='Travel App'
-            backgroundImg={travelImg}
-            projectUrl='/travel'
-            tech='React Native'
+            title='E-commerce'
+            backgroundImg={ecommerce3}
+            projectUrl='/ecommerce3'
+            tech='Next and Tailwind'
 
           />
           <ProjectItem
-            title='Expense Tracker App'
-            backgroundImg={expenseTrackerImg}
-            projectUrl='/expenseTracker'
-            tech='React Native'
+            title='E-commerce'
+            backgroundImg={ecommerce2}
+            projectUrl='/ecommerce2'
+            tech='Next and Tailwind'
 
           />
            <ProjectItem
-            title='To Do App'
-            backgroundImg={todoImg}
-            projectUrl='/todo'
-            tech='React Native'
+            title='E-commerce'
+            backgroundImg={ecommerce4}
+            projectUrl='/ecommerce4'
+            tech='Next and Tailwind'
 
           />
+          
          
         </div>
       </div>
